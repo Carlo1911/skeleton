@@ -1,4 +1,4 @@
-# Esqueleto de Django para proyectos de Wunderman Thompson
+# Esqueleto de Django para proyectos de WT
 
 Este esqueleto debe usarse para TODOS los proyectos que usen Django.
 Una vez descargado, se debe:
